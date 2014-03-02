@@ -1,4 +1,0 @@
-ebaseTek
-========
-
-a test program
